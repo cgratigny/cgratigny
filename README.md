@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Chris. I'm a Ruby on Rails Developer + founder of a SaaS Startup.
 
 <!--
 **cgratigny/cgratigny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
