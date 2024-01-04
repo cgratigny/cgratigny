@@ -1,4 +1,6 @@
-### Hi, I'm Chris. I'm a Ruby on Rails Developer + founder of a SaaS Startup.
+#### Hi, I'm Chris. I'm a Ruby on Rails Developer + founder of a SaaS Startup.
+
+As a seasoned Ruby on Rails developer with over 10 years of experience, I have developed a deep appreciation for the Rails ecosystem's convention over configuration philosophy. 
 
 <!--
 **cgratigny/cgratigny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
