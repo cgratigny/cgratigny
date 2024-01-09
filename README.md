@@ -15,7 +15,7 @@ Stack Breakdown of my recent work:
 - Multi-Tenant Architecture: Specialized in schema-based multitenancy, a unique and complex aspect of software development.
 - CSS: Proficient with Bootstrap for years, currently transitioning to Tailwind for its compatibility with Rails. While my focus backend, I have an eye for detail on the front-end
 
-Or, you can read my resume [https://drive.google.com/file/d/1aIxEMS46ca_vvx8xFI3bPVyE4BfuMM2B/view?usp=drive_link]
+Or, you can read my [resume|https://drive.google.com/file/d/1aIxEMS46ca_vvx8xFI3bPVyE4BfuMM2B/view?usp=drive_link]
 
 <!--
 **cgratigny/cgratigny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
